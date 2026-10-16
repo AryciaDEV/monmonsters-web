@@ -1,5 +1,10 @@
 # MonMonsters
 
-WebGL deployment repository for https://monmonsters.online.
+Ad-free Unity WebGL deployment for https://monmonsters.online.
 
-The Unity source project is maintained separately. A fresh, ad-free WebGL build is required before the game can be published.
+- PlayFab title: `145833`
+- Hosting: GitHub Pages (`main`, repository root)
+- Custom domain: `monmonsters.online`
+- Build: Unity 2021.3.29f1, Gzip with JavaScript decompression fallback
+
+The Unity source project is maintained separately. This repository contains only the browser deployment.
